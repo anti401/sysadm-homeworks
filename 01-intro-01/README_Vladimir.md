@@ -5,12 +5,12 @@
 Добавьте свое имя в каждый файл, сделайте снимок экрана и загрузите его на любой сервис обмена картинками.
 
 ## Решение №1
-Картинки с именем в файлах и подсветкой синтаксиса
-    - Terraform: ![Терраформ](img/terraform_Vladimir.png)
-    - Bash: ![bahs](img/bash_Vladimir.png)
-    - Markdown: ![markdown](img/markdown_Vladimir.png)
-    - Yaml: ![Yaml](img/yaml_Vladimir.png)
-    - Jsonnet: ![Jsonnet](img/jsonnet_Vladimir.png)
+Картинки с именем в файлах и подсветкой синтаксиса:
+- Terraform: ![Терраформ](img/terraform_Vladimir.png)
+- Bash: ![bahs](img/bash_Vladimir.png)
+- Markdown: ![markdown](img/markdown_Vladimir.png)
+- Yaml: ![Yaml](img/yaml_Vladimir.png)
+- Jsonnet: ![Jsonnet](img/jsonnet_Vladimir.png)
 
 
 ## Задание №2 - Описание жизненного цикла задачи (разработки нового функционала)
